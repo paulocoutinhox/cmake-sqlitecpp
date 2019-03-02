@@ -14,6 +14,7 @@ After run, "bin" folder and "build" folder will be available to test.
 1. sqlite: 3
 2. cmake: 3.1
 3. sqlitecpp: 2.2.0
+4. ndk: 18b
 
 # problems
 
