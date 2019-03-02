@@ -7,7 +7,7 @@ CMake and SQLiteCpp hello world
 2. Use "build.sh" to build executable for current OS.
 3. Use "build-android.sh" to build shared library for android "arm64-v8a".
 
-After run, "bin" folder and "build" folder will be available to test.  
+After run, "bin" folder and "build" folder will be available to test compiled things.  
 
 # versions
 
