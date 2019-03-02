@@ -3,8 +3,9 @@ CMake and SQLiteCpp hello world
 
 # instructions
 
-1. Use "build.sh" to build executable for current OS.
-2. Use "build-android.sh" to build shared library for android "arm64-v8a".
+1. Set environment variable "ANDROID_NDK" with your NDK root path.
+2. Use "build.sh" to build executable for current OS.
+3. Use "build-android.sh" to build shared library for android "arm64-v8a".
 
 After run, "bin" folder and "build" folder will be available to test.  
 
